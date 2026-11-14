@@ -140,6 +140,13 @@ Contributions are welcome! Follow these steps:
 - Ensure the code is properly formatted and linted.
 - Test your changes before submitting a PR.
 
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
 ## License
 - Distributed under the MIT License. See LICENSE for details.
 
