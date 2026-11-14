@@ -144,9 +144,6 @@ Contributions are welcome! Follow these steps:
 - Distributed under the MIT License. See LICENSE for details.
 
 ## Contact
-- **Tushar Bhardwaj** - [Portfolio](https://minianon.in/)
-- **GitHub:** [minianon](https://github.com/minianon)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@gmail.com](mailto:tusharbhardwaj2617@gmail.com)
-- **Connect:** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
-- **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
+**Find me everywhere →** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
+
+If my work helps you, you can support it on [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon).
