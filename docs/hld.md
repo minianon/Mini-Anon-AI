@@ -26,7 +26,7 @@ The app calls Gemini directly from the browser; there is no backend.
 
 | Item | Choice |
 |---|---|
-| UI | React 18 + Vite, Context API |
+| UI | React 19 + Vite, Context API |
 | AI | `@google/generative-ai`, model `gemini-2.0-flash`, temperature 1, max 8192 tokens |
 | Hosting | Vercel |
 
